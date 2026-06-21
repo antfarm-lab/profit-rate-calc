@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   title: "利益率計算ツール｜販売利益率を自動計算",
   description:
     "販売価格と利益額から利益率を自動計算できる無料ツール。メルカリ・ラクマ・物販ビジネスの商品分析に便利です。",
+  verification: {
+    google: "miCxwdbgRhGe66W37cjiBB0MFNO1tB2WJxh9Dm_zTjc",
+  },
 };
 
 export default function RootLayout({
