@@ -62,6 +62,26 @@ export default function Home() {
           リセット
         </button>
       </div>
+      <section className="mt-10 bg-white rounded-xl p-6">
+  <h2 className="text-xl font-bold mb-4">
+    利益率を把握することが重要な理由
+  </h2>
+
+  <p className="mb-3">
+    商品販売では利益額だけでなく利益率を確認することが重要です。
+    利益率が低いと売上が大きくても効率が悪くなります。
+  </p>
+
+  <p className="mb-3">
+    特に物販では仕入れ価格に対してどれだけ利益を確保できるかを
+    数字で把握する必要があります。
+  </p>
+
+  <p>
+    この利益率計算ツールでは販売価格とコストから
+    利益率を簡単に確認できます。
+  </p>
+</section>
       <section className="mt-10 rounded-xl border bg-white p-5">
   <h2 className="mb-3 text-lg font-bold">ほかの便利ツール</h2>
   <div className="grid gap-2 text-sm">
