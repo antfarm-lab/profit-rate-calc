@@ -13,9 +13,17 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "利益率計算ツール｜販売利益率を自動計算",
-  description:
-    "販売価格と利益額から利益率を自動計算できる無料ツール。メルカリ・ラクマ・物販ビジネスの商品分析に便利です。",
+  title: "利益率計算ツール【無料】販売利益率を自動計算",
+description:
+  "販売価格と仕入れ価格から利益率を無料で自動計算。メルカリ販売・Amazon販売・せどりで収益性を確認したい方に便利です。",
+keywords: [
+  "利益率計算",
+  "販売利益率",
+  "メルカリ利益率",
+  "Amazon販売",
+  "せどり",
+  "収益性",
+],
   verification: {
     google: "miCxwdbgRhGe66W37cjiBB0MFNO1tB2WJxh9Dm_zTjc",
   },
